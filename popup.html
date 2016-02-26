@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+	<head>
+		<script type="text/javascript" src="https://cdn.firebase.com/v0/firebase.js"></script>
+		<script src="popup.js"></script>
+		<style>
+			body{width:350px;background-image: url(symphony.png);}
+			label{display: inline-block; width: 100px;margin-top: 10px;text-transform: uppercase;}
+			input{width: 200px}
+			#heading{color: green}
+			#warning{color: red}
+			#btn{
+				font-size: 1.2em;
+				display: block;
+			    width: 115px;
+			    height: 25px;
+			    background: #4E9CAF;
+			    padding: 5px;
+			    text-align: center;
+			    border-radius: 5px;
+			    color: white;
+			    font-weight: bold;
+				cursor: pointer}
+		</style>
+	</head>
+	<body>
+		<h2 id="heading">Welcome to Eventify.</h2>
+		<h3>You just need to enter your name in Name field. This Extension tries to set other fields when possible from webmail.</h3>
+		<h3 id="warning">If values didnt change try refreshing the page</h3>
+		<h3 id="warning">This extension has been made for webmail only.</h3>
+		<h3 id="warning">This works only in mails that have all the 4 infos (subject,date,time,venue)</h3>
+		<form>
+			<label for="name">Name:</label>
+			<input id="name" type="text" value="" required>
+			<br>
+            <label for="subject">Subject:</label>
+			<input id="subject" type="text" value="" required>
+			<br>
+			<label for="date">Date:</label>
+			<input id="date" type="text" value="" required>
+			<br>
+			<label for="time">Time:</label>
+			<input id="time" type="text" value="" required>
+			<br>
+			<label for="time">Venue:</label>
+			<input id="venue" type="text" value="" required>
+		</form>
+		<br>
+		<a id="btn">Submit to App</a>
+	</body>
+</html>
