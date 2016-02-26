@@ -12,24 +12,23 @@ This project contains two nodes. One is chrome extension and other is an android
 The extension catures all the necessary information form mails that have date, time, topic and venue in them. Then this extension sends off the data into cloud with which our app is in contant connection in real time without the used needing to press any refresh key (goodbye old day..).
 
 =======================================================================================
-licene
-=======================================================================================
-This app is licensed inder MIT opensource licesne. Commercial use of this app has to be approved by the developers beforehand.
-
-=======================================================================================
 Usage
 =======================================================================================
 IMP INFO: Currently sever has values for only 2 names: aman and sandeep. Use only these names in extension communnication as well as in app registration. There is scope for any generic name but due to time constraints we could do this much only. SO THERE IS NO NEED TO REGISTER. USE FOLLOWING CREDENTIALS TO LOGIN in APP:
+<<<<<<< HEAD
 
 	Aman
 	a.dalmia
 
 	OR
+=======
 
-	Sandeep
-	sandeep.veethu
-
-	AGAIN use same name in extension.
+	your name 
+	your username
+	
+	ex: 
+	    John Doe
+	    john.doe
 
 1. Using Eventify is like a child's play, even your cat can do it. You just need to install the app in your android phone and install the Chrome Extension. 
 
@@ -45,12 +44,5 @@ To get your time table, just enter your webmail to get the stuff on the fly.
 6. Always see that all the fields are filled before sending by itself.
 
 7. The only bug till now is that changing the fields other than Name wouldnt do any effect. Thats why always see that last 4 fields are filled by extension, if not this will not work in that particular mail.
-
-=======================================================================================
-Developers
-=======================================================================================
-App Developer        : Aman Dalmia
-
-Chrome Extension Dev : Naveen Tripathi & Rahul Ranjan
 
 
