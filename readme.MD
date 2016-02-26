@@ -15,13 +15,6 @@ The extension catures all the necessary information form mails that have date, t
 Usage
 =======================================================================================
 IMP INFO: Currently sever has values for only 2 names: aman and sandeep. Use only these names in extension communnication as well as in app registration. There is scope for any generic name but due to time constraints we could do this much only. SO THERE IS NO NEED TO REGISTER. USE FOLLOWING CREDENTIALS TO LOGIN in APP:
-<<<<<<< HEAD
-
-	Aman
-	a.dalmia
-
-	OR
-=======
 
 	your name 
 	your username
