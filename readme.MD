@@ -16,15 +16,12 @@ Usage
 =======================================================================================
 IMP INFO: Currently sever has values for only 2 names: aman and sandeep. Use only these names in extension communnication as well as in app registration. There is scope for any generic name but due to time constraints we could do this much only. SO THERE IS NO NEED TO REGISTER. USE FOLLOWING CREDENTIALS TO LOGIN in APP:
 
-	Aman
-	a.dalmia
-
-	OR
-
-	Sandeep
-	sandeep.veethu
-
-	AGAIN use same name in extension.
+	your name 
+	your username
+	
+	ex: 
+	    John Doe
+	    john.doe
 
 1. Using Eventify is like a child's play, even your cat can do it. You just need to install the app in your android phone and install the Chrome Extension. 
 
