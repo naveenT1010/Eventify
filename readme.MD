@@ -20,6 +20,7 @@ This app is licensed inder MIT opensource licesne. Commercial use of this app ha
 Usage
 =======================================================================================
 IMP INFO: Currently sever has values for only 2 names: aman and sandeep. Use only these names in extension communnication as well as in app registration. There is scope for any generic name but due to time constraints we could do this much only. SO THERE IS NO NEED TO REGISTER. USE FOLLOWING CREDENTIALS TO LOGIN in APP:
+
 	Aman
 	a.dalmia
 
@@ -49,6 +50,7 @@ To get your time table, just enter your webmail to get the stuff on the fly.
 Developers
 =======================================================================================
 App Developer        : Aman Dalmia
+
 Chrome Extension Dev : Naveen Tripathi & Rahul Ranjan
 
 
